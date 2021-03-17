@@ -1,0 +1,41 @@
+
+.background{
+    background-image: url(../img/bike-background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+
+}
+.bordure{
+    border-bottom: black 1px solid;
+}
+.velo{
+    background-image: url(/img/bike-1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 120px;
+    width: 200px;
+    
+}
+.velo-2{
+    background-image: url(/img/bike-2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 120px;
+    width: 200px;
+}
+.velo-3{
+    background-image: url(/img/bike-3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 120px;
+    width: 200px;
+}
+i{
+    border: 1px blue solid;
+    
+}
+.non{
+    border: none !important;
+    outline: none !important;
+}
